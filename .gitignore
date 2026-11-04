@@ -1,0 +1,12 @@
+# Your game and everything made from it: never commit
+data/
+out/
+*.pkg
+*.rar
+*.7z
+*.iso
+*.xex
+
+# Console logs, profiles and clips
+logs/
+clips/
